@@ -24,6 +24,7 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
+                <p>Version updated</p>
 
             </div>
         </div>
