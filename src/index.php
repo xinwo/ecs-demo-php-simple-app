@@ -19,7 +19,7 @@
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
-                <p>Version updated</p>
+                <p>Version updated again!!!!</p>
             </div>
         </div>
 
